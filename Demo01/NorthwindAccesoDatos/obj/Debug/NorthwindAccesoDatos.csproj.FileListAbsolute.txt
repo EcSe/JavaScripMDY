@@ -1,0 +1,7 @@
+D:\Proyectos\JavaScripMDY\Demo01\NorthwindAccesoDatos\bin\Debug\NorthwindAccesoDatos.dll
+D:\Proyectos\JavaScripMDY\Demo01\NorthwindAccesoDatos\bin\Debug\NorthwindAccesoDatos.pdb
+D:\Proyectos\JavaScripMDY\Demo01\NorthwindAccesoDatos\bin\Debug\Entidades.dll
+D:\Proyectos\JavaScripMDY\Demo01\NorthwindAccesoDatos\bin\Debug\Entidades.pdb
+D:\Proyectos\JavaScripMDY\Demo01\NorthwindAccesoDatos\obj\Debug\NorthwindAccesoDatos.csprojResolveAssemblyReference.cache
+D:\Proyectos\JavaScripMDY\Demo01\NorthwindAccesoDatos\obj\Debug\NorthwindAccesoDatos.dll
+D:\Proyectos\JavaScripMDY\Demo01\NorthwindAccesoDatos\obj\Debug\NorthwindAccesoDatos.pdb

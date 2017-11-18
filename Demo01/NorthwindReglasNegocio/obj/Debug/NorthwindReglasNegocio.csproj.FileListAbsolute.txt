@@ -1,0 +1,9 @@
+D:\Proyectos\JavaScripMDY\Demo01\NorthwindReglasNegocio\bin\Debug\NorthwindReglasNegocio.dll
+D:\Proyectos\JavaScripMDY\Demo01\NorthwindReglasNegocio\bin\Debug\NorthwindReglasNegocio.pdb
+D:\Proyectos\JavaScripMDY\Demo01\NorthwindReglasNegocio\bin\Debug\Entidades.dll
+D:\Proyectos\JavaScripMDY\Demo01\NorthwindReglasNegocio\bin\Debug\NorthwindAccesoDatos.dll
+D:\Proyectos\JavaScripMDY\Demo01\NorthwindReglasNegocio\bin\Debug\Entidades.pdb
+D:\Proyectos\JavaScripMDY\Demo01\NorthwindReglasNegocio\bin\Debug\NorthwindAccesoDatos.pdb
+D:\Proyectos\JavaScripMDY\Demo01\NorthwindReglasNegocio\obj\Debug\NorthwindReglasNegocio.csprojResolveAssemblyReference.cache
+D:\Proyectos\JavaScripMDY\Demo01\NorthwindReglasNegocio\obj\Debug\NorthwindReglasNegocio.dll
+D:\Proyectos\JavaScripMDY\Demo01\NorthwindReglasNegocio\obj\Debug\NorthwindReglasNegocio.pdb

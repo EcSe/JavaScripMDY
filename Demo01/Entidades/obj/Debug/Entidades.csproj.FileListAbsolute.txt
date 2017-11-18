@@ -1,0 +1,4 @@
+D:\Proyectos\JavaScripMDY\Demo01\Entidades\bin\Debug\Entidades.dll
+D:\Proyectos\JavaScripMDY\Demo01\Entidades\bin\Debug\Entidades.pdb
+D:\Proyectos\JavaScripMDY\Demo01\Entidades\obj\Debug\Entidades.dll
+D:\Proyectos\JavaScripMDY\Demo01\Entidades\obj\Debug\Entidades.pdb

@@ -1,0 +1,5 @@
+D:\Proyectos\JavaScripMDY\Demo01\GeneralCodigoUsuario\bin\Debug\GeneralCodigoUsuario.dll
+D:\Proyectos\JavaScripMDY\Demo01\GeneralCodigoUsuario\bin\Debug\GeneralCodigoUsuario.pdb
+D:\Proyectos\JavaScripMDY\Demo01\GeneralCodigoUsuario\obj\Debug\GeneralCodigoUsuario.dll
+D:\Proyectos\JavaScripMDY\Demo01\GeneralCodigoUsuario\obj\Debug\GeneralCodigoUsuario.pdb
+D:\Proyectos\JavaScripMDY\Demo01\GeneralCodigoUsuario\obj\Debug\GeneralCodigoUsuario.csprojResolveAssemblyReference.cache
